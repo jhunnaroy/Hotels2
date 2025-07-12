@@ -1,0 +1,6 @@
+{
+    "git.decorations.enabled": false,
+    "git.discardUntrackedChangesToTrash": false,
+    "git.enabled": true,
+    "git.diagnosticsCommitHook.enabled": true
+}
